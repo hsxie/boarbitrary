@@ -7,6 +7,6 @@ fsolve root finding versions are provided for all the above three cases, i.e., b
 
 Matrix version to obtain all solutions is provided for HH case.
 
-Ref: H. S. Xie, Efficient Framework for Solving Plasma Waves with Arbitrary Distributions, 2025.
+Ref: H. S. Xie, Efficient Framework for Solving Plasma Waves with Arbitrary Distributions, 2025, https://arxiv.org/abs/2501.06477.
 
 8:41 2025/1/10
